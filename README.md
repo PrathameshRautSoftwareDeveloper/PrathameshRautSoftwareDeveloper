@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PrathameshRautSoftwareDeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prathamesh-raut-53b38926a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,7 +17,7 @@ I'm a software developer who builds backend services with **Java and Spring Boot
 - 🌱 Currently learning: **[Docker, Kubernetes, AWS, ...]**
 - 🏗️ Exploring: **Microservices, Spring Cloud, system design**
 - 💬 Ask me about: **Java, Spring Boot, Angular, REST APIs**
-- 📫 Reach me: **[your email]** or on [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
+- 📫 Reach me: **[your email]** or on [LinkedIn](https://www.linkedin.com/in/prathamesh-raut-53b38926a/)
 - ⚡ Fun fact: **[add something personal, e.g. I also trade the markets]**
 
 ---
@@ -25,7 +25,7 @@ I'm a software developer who builds backend services with **Java and Spring Boot
 ### 🌐 Socials
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/prathamesh-raut-53b38926a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
